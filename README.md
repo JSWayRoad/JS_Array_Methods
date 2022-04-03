@@ -60,6 +60,11 @@ reduce(func, initial) – вычисляет одно значение на ос
 Array.isArray(arr) проверяет, является ли arr массивом.  
 Обратите внимание, что методы sort, reverse и splice изменяют исходный массив.
 
+### методы массивов
+
+https://learn.javascript.ru/array-methods  
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array
+
 ### Псевдомассив
 
 **Итерируемые объекты** – это объекты, которые реализуют метод Symbol.iterator, как было описано выше.
