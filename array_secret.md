@@ -10,3 +10,7 @@ system checks current memory by cycle
 
 When the memory for current array is fool then  system allocates(аллоцирует или выделяет)  
 new array which memory = current * 2(about) and an old array will be free for another info.
+
+```
+const newArr = [...arr, arr1]
+```
