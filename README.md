@@ -73,6 +73,9 @@ Array.isArray(arr) проверяет, является ли arr массиво�
 https://learn.javascript.ru/array-methods  
 https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array
 
+**What is the Difference Between map() and forEach() in JavaScript?**  
+https://medium.com/front-end-weekly/difference-between-map-and-foreach-bcaf8cdd5404
+
 ## Псевдомассив
 
 **Итерируемые объекты** – это объекты, которые реализуют метод Symbol.iterator, как было описано выше.
